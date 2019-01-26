@@ -1,5 +1,5 @@
 {
-  "name": "read-time",
+  "name": "estimated-read-time",
   "version": "1.0.0",
   "description": "",
   "main": "lib/index.js",
@@ -17,5 +17,6 @@
   },
   "homepage": "https://github.com/karthik512/read-time#readme",
   "dependencies": {
-  }
+  },
+  "keywords": ["read-time", "reading-time", "estimated time","medium time", "read", "time"]
 }
