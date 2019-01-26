@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/karthik512/read-time.git"
+    "url": "git+https://github.com/karthik512/estimated-read-time.git"
   },
   "author": "Karthik",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/karthik512/read-time/issues"
+    "url": "https://github.com/karthik512/estimated-read-time/issues"
   },
-  "homepage": "https://github.com/karthik512/read-time#readme",
+  "homepage": "https://github.com/karthik512/estimated-read-time#readme",
   "dependencies": {
   },
   "keywords": ["read-time", "reading-time", "estimated time","medium time", "read", "time"]
