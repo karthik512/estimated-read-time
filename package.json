@@ -1,0 +1,21 @@
+{
+  "name": "read-time",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karthik512/read-time.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karthik512/read-time/issues"
+  },
+  "homepage": "https://github.com/karthik512/read-time#readme",
+  "dependencies": {
+  }
+}
