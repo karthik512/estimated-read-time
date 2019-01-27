@@ -1,6 +1,7 @@
 # estimated-read-time
 
-[![NPM](https://img.shields.io/npm/v/estimated-read-time.svg?logo=npm&style=flat-square)](https://www.npmjs.com/package/estimated-read-time)    [![Github](https://img.shields.io/github/release/karthik512/estimated-read-time.svg?colorB=green&logo=github&style=flat-square)](https://github.com/karthik512/estimated-read-time)
+[![NPM](https://img.shields.io/npm/v/estimated-read-time.svg?logo=npm&style=flat-square)](https://www.npmjs.com/package/estimated-read-time)    [![Github](https://img.shields.io/github/release/karthik512/estimated-read-time.svg?colorB=orange&logo=github&style=flat-square)](https://github.com/karthik512/estimated-read-time) [![Downloads](https://img.shields.io/npm/dt/estimated-read-time.svg?logo=npm&style=flat-square)](https://www.npmjs.com/package/estimated-read-time) [![License](https://img.shields.io/github/license/karthik512/estimated-read-time.svg?style=flat-square&logo=github)](https://github.com/karthik512/estimated-read-time/blob/master/LICENSE)
+
 
 `estimated-read-time` helps to estimate the time taken to read a content.
 
